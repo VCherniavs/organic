@@ -1,0 +1,790 @@
+@media screen and (max-width: 1200px) {
+  /*
+  діапазон: 0px - 1200px,
+  дивитись_на: 992px,
+ */
+  .container {
+    width: 100%;
+    padding: 0 30px;
+  }
+  .logo {
+    width: 140px;
+    height: 45px;
+  }
+  .nav-list__link {
+    font-size: 14px;
+  }
+  .header {
+    margin: 20px 0;
+  }
+  .about-us__wrap-img {
+    width: 506px;
+    height: 506px;
+  }
+  .about-us__text {
+    font-weight: 100;
+    font-size: 15px;
+    line-height: 20px;
+  }
+  .about-us-block__text {
+    font-weight: 100;
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .about-us__title {
+    font-size: 25px;
+    line-height: 38px;
+  }
+  .about-us__subtitle {
+    font-size: 16px;
+    line-height: 35px;
+  }
+  .about-us-block__title {
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 25px;
+  }
+  .about-us-block__image-item {
+    width: 60px;
+    height: 60px;
+  }
+  .custom-btn {
+    font-size: 14px;
+    padding: 13px 4px 13px 19px;
+  }
+  .card {
+    height: 450px;
+  }
+  .card__btn {
+    padding: 20px 60px;
+    font-size: 15px;
+  }
+  .discover__title {
+    font-size: 29px;
+  }
+  .discover__subtitle {
+    font-size: 20px;
+  }
+  .card-info {
+    height: 500px;
+  }
+  .card-info__wrap {
+    padding: 40px 30px;
+    max-width: 410px;
+  }
+  .card-info__main-text {
+    font-size: 16px;
+  }
+  .card-info__text {
+    font-size: 14px;
+  }
+  .card-info__author {
+    font-size: 12px;
+  }
+  .subscribe__title {
+    font-size: 40px;
+  }
+  .form__input {
+    padding: 14px 74px 17px 28px;
+  }
+  .social__text {
+    margin: 50px 30px;
+  }
+  .contacts__text {
+    font-size: 25px;
+    line-height: 42px;
+  }
+  .pages__text {
+    font-size: 25px;
+  }
+  .farm__wrap-img {
+    width: 600px;
+    height: 550px;
+  }
+  .farm__title {
+    font-size: 30px;
+    line-height: 40px;
+    padding-bottom: 20px;
+  }
+  .farm__subtitle {
+    font-size: 25px;
+  }
+  .preference-list__text {
+    font-size: 14px;
+    line-height: 29px;
+    padding-bottom: 5px;
+  }
+  .preference-list__title {
+    font-size: 15px;
+    line-height: 29px;
+  }
+  .farm__info {
+    padding: 20px 30px;
+  }
+  .maim-banner__title {
+    font-size: 50px;
+    line-height: 80px;
+  }
+  .wrap-customer__grid-item {
+    width: 50%;
+    margin-bottom: 10px;
+  }
+  .card-block__title {
+    font-size: 30px;
+  }
+  .card-block__subtitle {
+    font-size: 25px;
+  }
+  .card-block {
+    padding: 63px 55px 100px 55px;
+  }
+  .main-banner-wrap {
+    padding: 120px 0 150px 0;
+  }
+}
+
+@media screen and (max-width: 991px) {
+  /*
+  діапазон: 0px - 991px,
+  дивитись_на: 768px,
+ */
+  .nav-list__item + .nav-list__item {
+    padding-left: 15px;
+  }
+  .our-products-grid__item {
+    width: 50%;
+  }
+  .nav-list {
+    margin-left: 70px;
+  }
+  .basket-button {
+    padding: 3px 5px 3px 8px;
+    font-weight: 100;
+    font-size: 10px;
+  }
+  .basket-button__btn-item:after {
+    width: 15px;
+    height: 13px;
+  }
+  .basket-button__btn-item {
+    width: 30px;
+    height: 30px;
+  }
+  .about-us__wrap-img {
+    width: 406px;
+    height: 406px;
+  }
+  .about-us__text {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .about-us-block__text {
+    font-size: 10px;
+    line-height: 14px;
+  }
+  .about-us__title {
+    font-size: 20px;
+    line-height: 30px;
+  }
+  .about-us__subtitle {
+    font-size: 12px;
+    line-height: 20px;
+  }
+  .about-us-block__title {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .about-us-block__image-item {
+    width: 40px;
+    height: 40px;
+  }
+  .our-products {
+    margin: 50px 0;
+  }
+  .our-products__title {
+    font-size: 30px;
+    line-height: 30px;
+  }
+  .our-products__subtitle {
+    font-weight: 400;
+    font-size: 20px;
+  }
+  .products-grid-card__photo-wrapper {
+    height: 250px;
+  }
+  .customer__subtitle {
+    font-size: 17px;
+    line-height: 53px;
+  }
+  .customer__wrap-img {
+    width: 100px;
+    height: 100px;
+    margin-bottom: 5px;
+  }
+  .customer__title {
+    font-size: 25px;
+    line-height: 0;
+  }
+  .customer__text {
+    font-size: 12px;
+    line-height: 25px;
+    max-width: 700px;
+  }
+  .customer__name-author {
+    font-weight: 700;
+    font-size: 20px;
+    margin-top: 10px;
+  }
+  .customer__consumer {
+    font-size: 9px;
+    line-height: 10px;
+  }
+  .wrap-customer__grid-item {
+    width: 100%;
+    margin-bottom: 10px;
+  }
+  .wrap-customer__grid {
+    display: flex;
+    margin: 40px -13px 0 -13px;
+  }
+  .offer-products__title {
+    font-size: 30px;
+  }
+  .our-products-grid__item {
+    width: 50%;
+  }
+  .offer-products__subtitle {
+    font-size: 16px;
+    line-height: 0;
+  }
+  .custom-btn {
+    font-size: 9px;
+    padding: 5px 2px 4px 8px;
+  }
+  .card {
+    height: 350px;
+  }
+  .card__btn {
+    padding: 24px 40px;
+    font-size: 16px;
+  }
+  .card-info__btn {
+    font-size: 14px;
+  }
+  .discover__subtitle {
+    font-size: 17px;
+    line-height: 0;
+  }
+  .discover {
+    margin-top: 20px;
+  }
+  .discover__title {
+    font-size: 20px;
+    line-height: 0;
+  }
+  .custom-btn__arrow {
+    width: 22px;
+    height: 20px;
+    margin-left: 10px;
+  }
+  .farm__subtitle {
+    font-size: 16px;
+    line-height: 25px;
+  }
+  .preference-list__title {
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .preference-list__text {
+    font-size: 12px;
+    line-height: 25px;
+    padding-bottom: 4px;
+  }
+  .farm__title {
+    font-size: 21px;
+    line-height: 25px;
+    padding-bottom: 13px;
+  }
+  .custom-btn__arrow svg {
+    width: 12px;
+    height: 10;
+  }
+  .form__input {
+    padding: 4px 27px 5px 9px;
+    font-size: 10px;
+    line-height: 25px;
+  }
+  .custom-btn {
+    font-size: 8px;
+    padding: 1px 2px 1px 5px;
+  }
+  .farm__wrap-img {
+    width: 580px;
+    height: 425px;
+  }
+  .card-info__text {
+    margin: 3px 0 3px 0;
+    line-height: 24px;
+    font-size: 12px;
+  }
+  .card-info__wrap-btn {
+    font-size: 9px;
+    line-height: 20px;
+  }
+  .card-info__main-text {
+    font-size: 13px;
+    margin-top: 5px;
+  }
+  .card-info__author {
+    font-size: 9px;
+  }
+  .card-info__author svg {
+    width: 13px;
+    height: 15px;
+  }
+  .card-info {
+    height: 450px;
+  }
+  .discover__content {
+    margin-bottom: 50px;
+  }
+  .maim-banner__title {
+    font-size: 37px;
+    line-height: 45px;
+  }
+  .maim-banner__subtitle {
+    font-size: 19px;
+    line-height: 4px;
+  }
+}
+
+@media screen and (max-width: 767px) {
+  /*
+  діапазон: 0px - 991px,
+  дивитись_на: 480px,
+ */
+  .nav-list {
+    display: none;
+  }
+  .basket-button {
+    display: none;
+  }
+  .burger-wrap {
+    display: block;
+  }
+  .header {
+    margin: 6px 0;
+  }
+  .maim-banner__title {
+    padding-bottom: 10px;
+  }
+  .offer-grid {
+    margin: 58px -25px;
+  }
+  .card-block {
+    height: 250px;
+  }
+  .offer-grid__item {
+    padding: 0px 10px;
+  }
+  .card-block__title {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .card-block__subtitle {
+    font-size: 25px;
+    line-height: 37px;
+  }
+  .about-us__wrap-img {
+    width: 200px;
+    height: 250px;
+  }
+  .about-us__title {
+    font-size: 15px;
+    line-height: 17px;
+  }
+  .about-us__text {
+    font-size: 10px;
+    line-height: 11px;
+    padding: 5px 0;
+  }
+  .about-us-block__text {
+    font-size: 7px;
+    line-height: 8px;
+  }
+  .about-us-block__title {
+    font-size: 9px;
+    line-height: 14px;
+  }
+  .about-us-block {
+    display: flex;
+    align-items: center;
+    margin-top: 10px;
+  }
+  .wrap-about-us {
+    padding: 50px 0 40px 0;
+  }
+  .our-products__subtitle {
+    font-size: 13px;
+    line-height: 10px;
+  }
+  .our-products__title {
+    font-size: 17px;
+    line-height: 25px;
+    padding-bottom: 10px;
+  }
+  .products-grid-card__photo-wrapper {
+    height: 165px;
+  }
+  .products-grid-card__view {
+    font-size: 8px;
+    padding: 1px 5px;
+  }
+  .products-grid-card__text {
+    font-size: 12px;
+    line-height: 8px;
+  }
+  .products-grid-card__price-old {
+    line-height: 0;
+    font-size: 9px;
+  }
+  .products-grid-card__price-discount {
+    font-size: 9px;
+  }
+  .customer__title {
+    font-size: 20px;
+    line-height: 1;
+  }
+  .customer__subtitle {
+    font-size: 17px;
+    line-height: 29px;
+  }
+  .customer__wrap-img {
+    width: 105px;
+    height: 105px;
+    margin-top: 14px;
+  }
+  .customer__text {
+    font-size: 11px;
+    line-height: 19px;
+    max-width: 470px;
+  }
+  .customer__name-author {
+    line-height: 25px;
+    font-size: 19px;
+    margin-top: 5px;
+  }
+  .customer__consumer {
+    font-size: 8px;
+    line-height: 19px;
+  }
+  .wrap-customer {
+    background-image: url(../image/customer-back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    padding: 33px 170px;
+  }
+  .wrap-offer-products {
+    padding: 65px 0;
+  }
+  .offer-products__title {
+    font-size: 22px;
+    line-height: 30px;
+  }
+  .offer-products__subtitle {
+    font-size: 14px;
+  }
+  .farm__wrap-img {
+    width: 595px;
+    height: 390px;
+  }
+  .products-grid-card {
+    padding: 24px 6px 20px 6px;
+  }
+  .farm__title {
+    font-size: 15px;
+    line-height: 16px;
+    padding-bottom: 9px;
+  }
+  .farm__subtitle {
+    font-size: 13px;
+    line-height: 21px;
+  }
+  .preference-list__text {
+    font-size: 9px;
+    line-height: 21px;
+    padding-bottom: 3px;
+  }
+  .preference-list__title {
+    font-size: 10px;
+    line-height: 10px;
+  }
+  .card {
+    height: 309px;
+  }
+  .card__btn {
+    padding: 5px 33px;
+    font-size: 10px;
+    line-height: 12px;
+  }
+  .food__item {
+    width: 50%;
+    padding: 10px 9px;
+  }
+  .wrap-food {
+    padding: 65px 0;
+  }
+  .discover__title {
+    font-size: 12px;
+  }
+  .discover__subtitle {
+    font-size: 14px;
+  }
+  .discover-grid__item {
+    width: 100%;
+  }
+  .card-info {
+    height: 380px;
+    margin-bottom: 55px;
+    border-radius: 30px;
+  }
+  .card-info__wrap {
+    max-width: 385px;
+  }
+  .card-info__btn {
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 22px;
+  }
+  .subscribe__title {
+    font-size: 23px;
+    line-height: 30px;
+  }
+  .footer {
+    margin: 90px 0;
+  }
+  .contacts-list__info {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-size: 10px;
+    line-height: 9px;
+  }
+  .contacts-list__name:first-child {
+    padding-top: 1px;
+  }
+  .contacts-list__name {
+    font-size: 11px;
+    line-height: 11px;
+  }
+  .contacts__text {
+    font-size: 12px;
+    line-height: 25px;
+  }
+  .social__text {
+    margin: 9px 39px;
+    font-size: 10px;
+    line-height: 16px;
+  }
+  .logo {
+    width: 116px;
+    height: 31px;
+  }
+  .pages__text {
+    font-size: 12px;
+    line-height: 25px;
+    margin-bottom: 0;
+  }
+  .pages-list__item + .pages-list__item {
+    margin-top: 0;
+  }
+  .pages-list__item a {
+    font-size: 10px;
+    line-height: 15px;
+  }
+  .social-list {
+    margin-top: 20px;
+  }
+  .site-copywriting__block-text {
+    font-size: 8px;
+    line-height: 1px;
+  }
+  .pages::after {
+    height: calc(100% + 5px);
+  }
+  .wrap-subscribe {
+    margin: 35px 30px 50px;
+  }
+  .subscribe {
+    padding: 40px 0;
+  }
+  .footer {
+    margin: 55px 0;
+    flex-wrap: wrap;
+  }
+  .social-list__background {
+    width: 20px;
+    height: 20px;
+  }
+  .social-list__background svg {
+    width: 10px;
+    height: 10px;
+  }
+  .social-list__item + .social-list__item {
+    padding-left: 3px;
+  }
+  .card-info__btn {
+    font-size: 9px;
+    line-height: 22px;
+  }
+  .card-info__main-text {
+    font-size: 11px;
+    margin-top: 5px;
+    line-height: 18px;
+  }
+  .card-info__text {
+    margin: 3px 0 3px 0;
+    line-height: 20px;
+    font-size: 11px;
+  }
+  .our-products-grid__item {
+    width: 100%;
+  }
+  .products-grid-card {
+    padding: 19px 20px 9px 21px;
+  }
+}
+
+@media screen and (max-width: 479px) {
+  /*
+  діапазон: 0px - 479px,
+  дивитись_на: 320px, 
+ */
+  .container {
+    padding: 0 15px;
+  }
+  .nav {
+    display: none;
+  }
+  .offer-grid__item {
+    width: 100%;
+  }
+  .offer-grid__item {
+    padding: 20px;
+  }
+  .about-us__wrap-img {
+    width: 100%;
+  }
+  .customer__text {
+    font-size: 10px;
+    line-height: 16px;
+    max-width: 290px;
+  }
+
+  .wrap-customer {
+    padding: 24px 0px;
+  }
+  .offer-products__title {
+    font-size: 13px;
+    line-height: 9px;
+  }
+  .farm__wrap-img {
+    width: 430px;
+    height: 300px;
+  }
+  .farm__title {
+    font-size: 10px;
+    line-height: 13px;
+    padding-bottom: 6px;
+  }
+  .farm__subtitle {
+    font-size: 9px;
+    line-height: 16px;
+  }
+  .preference-list__text {
+    font-size: 8px;
+    line-height: 16px;
+    padding-bottom: 3px;
+  }
+  .food__item {
+    width: 100%;
+    padding: 7px 19px;
+  }
+  .card-info__wrap {
+    max-width: 275px;
+  }
+  .subscribe__title {
+    font-size: 20px;
+    line-height: 28px;
+  }
+  .form__input {
+    padding: 1px 7px 1px 1px;
+    font-size: 7px;
+    line-height: 13px;
+    margin-bottom: 5px;
+  }
+  .custom-btn {
+    font-size: 6px;
+    padding: 1px 2px 1px 4px;
+    line-height: 0;
+  }
+  .custom-btn__arrow svg {
+    width: 8px;
+    height: 6px;
+  }
+  .custom-btn__arrow {
+    width: 15px;
+    height: 15px;
+    margin-left: 3px;
+  }
+  .discover__title {
+    font-size: 13px;
+    max-width: 300px;
+    line-height: 15px;
+  }
+  .card {
+    height: 260px;
+  }
+
+  .farm__info {
+    padding: 20px 10px;
+  }
+  .maim-banner__title {
+    font-size: 22px;
+    line-height: 27px;
+    max-width: 300px;
+    padding-bottom: 7px;
+  }
+  .contacts::after {
+    opacity: 0;
+  }
+  .pages::after {
+    opacity: 0;
+  }
+  .social {
+    order: 3;
+    width: 100%;
+    margin-top: 15px;
+  }
+  .wrap-subscribe {
+    margin: 9px 6px 2px;
+  }
+  .form {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+  }
+  .subscribe__title {
+    width: 100%;
+  }
+  .card-info {
+    height: 325px;
+  }
+  .card-info__wrap {
+    max-width: 300px;
+  }
+  .card__btn {
+    padding: 24px 40px;
+    font-size: 16px;
+  }
+}
